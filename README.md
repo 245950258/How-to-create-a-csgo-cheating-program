@@ -48,9 +48,15 @@ Visual Studio(VS) - 编写和编译C++代码，应该哪一个版本的都没问
 
 QQ : 2653290887
 
+## 相关网站
 
+[一号选手](https://www.unknowncheats.me/forum/index.php):一个国外的辅助论坛，CSGO、使命、APEX、CF.....的源码、地址、偏移、思路.......
 
+[二号选手](https://www.freebuf.com/news/139515.html):一个国内的网站，偏安全方面的
 
+[三号选手](https://gslab.qq.com/portal.php?mod=view&aid=168):一个国内的网站,游戏安全方面的
+
+[四号选手](https://vmcall.blog/):一个国外的个人网站，讲解BE保护的
 
 
 
